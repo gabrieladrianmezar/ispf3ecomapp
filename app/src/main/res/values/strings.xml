@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FermosaWorkout</string>
+    <string name="main_register_button">Registrate</string>
+    <string name="main_login_button">Ya tienes una cuenta? Inicia sesion</string>
+    <string name="register_name">Nombre</string>
+    <string name="register_password">Contrasena</string>
+    <string name="register_email">Email</string>
+    <string name="register_address">Direccion</string>
+    <string name="register_phone">Telefono</string>
+    <string name="register_dni">DNI</string>
+    <string name="register_button">Registrarse</string>
+    <string name="login_name">Nombre</string>
+    <string name="login_password">Contrasena</string>
+    <string name="login_button">Iniciar sesion</string>
+    <string name="home_logout_button">Cerrar sesion</string>
+    <string name="login_remember">Mantener sesion iniciada</string>
+    <string name="home_store">Tienda</string>
+    <string name="company_name">FERMOSA WORKOUT</string>
+    <string name="admin">Soy admin</string>
+    <string name="noadmin">No soy admin</string>
+    <string name="panel_users_button">Usuarios</string>
+    <string name="panel_customers_button">Clientes</string>
+    <string name="panel_products_button">Productos</string>
+    <string name="panel_ventas_button">Ventas</string>
+
+
+    <string name="title_activity_panel_drawer">PanelDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
