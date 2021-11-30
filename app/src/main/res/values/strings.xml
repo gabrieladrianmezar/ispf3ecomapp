@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">FermosaWorkout</string>
     <string name="main_register_button">Registrate</string>
-    <string name="main_login_button">Ya tienes una cuenta? Inicia sesion</string>
+    <string name="main_login_button">Ya tienes cuenta? Inicia sesion</string>
     <string name="register_name">Nombre</string>
     <string name="register_password">Contrasena</string>
     <string name="register_email">Email</string>
